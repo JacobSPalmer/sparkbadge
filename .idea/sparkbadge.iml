@@ -5,6 +5,17 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="TemplatesService">
+    <option name="templateFileTypes">
+      <list>
+        <option value="HTML" />
+        <option value="XML" />
+        <option value="XHTML" />
+        <option value="SVG" />
+      </list>
+    </option>
+    <option name="TEMPLATE_CONFIGURATION" value="Jinja2" />
+  </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="pytest" />
   </component>
